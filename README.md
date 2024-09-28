@@ -122,7 +122,6 @@ Once the software has been tested and is deemed ready, it is deployed to the pro
 
 7. Maintenance
 After deployment, the software enters the maintenance phase. This involves fixing any issues that arise, making updates, and adding new features as needed1
-
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 Comparing Waterfall and Agile
 Flexibility: Agile is highly flexible and can adapt to changes quickly, while Waterfall is more rigid and follows a strict sequence.
@@ -246,8 +245,6 @@ Requirement Verification: Ensures that the software meets all specified requirem
 Description: Acceptance testing is the final phase of testing, where the software is tested from the end-user’s perspective. It ensures that the software is ready for deployment and meets the user’s needs. Importance:User Satisfaction: Confirms that the software meets the user’s requirements and expectations
 
 #Part 2: Introduction to AI and Prompt Engineering
-
-
 Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt engineering is the practice of designing and refining prompts—questions or instructions—to elicit specific responses from AI models. It involves crafting the right queries to guide AI models, especially large language models (LLMs), to produce desired outcomes.
 Importance of Prompt Engineering in AI Models
